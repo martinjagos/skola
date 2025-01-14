@@ -109,3 +109,119 @@
 - **Pojem**: Hodnocení bonity a finanční stability subjektu.  
 - **Význam pro podniky**: Klíčové při jednání s investory a bankami.  
 - **Příklad**: Rating Uherského Hradiště – A1 s výhledem stabilní.  
+
+
+
+# Prodejní činnost podniku (odbyt)
+
+**Pojem, cíl, aktivní funkce**  
+- **Pojem**: Soubor činností spojených s přesunem výrobků a služeb od výrobce ke spotřebiteli.  
+- **Cíl**: Zajistit uplatnění výrobků na trhu.  
+- **Aktivní funkce**:  
+  - Usměrnění výroby dle potřeb trhu.  
+  - Podpora poptávky pomocí reklamy a marketingu.  
+  - Informování o nových výrobcích a překonávání konzervativních zvyklostí spotřebitelů.
+
+**Činnosti odbytu**  
+- **Plánování prodeje**: Sestavení plánu dle období, produktů a regionů. Obsahuje prodejní akce, rozbor výsledků a průzkum poptávky.  
+- **Odbytové cesty**: Přímé (výrobce → spotřebitel) a nepřímé (přes VO, MO).  
+- **Získávání odběratelů**: Individuální jednání, internet, veletrhy, burzy, dražby.  
+- **Personální zajištění prodeje**:  
+  - Zásilkové služby a internetový prodej.  
+  - Obchodní zástupci, prodavači, key account manažeři.  
+- **Obchodně technické služby**:  
+  - Služby při výběru zboží (poradenství, katalogy).  
+  - Při dodávce (montáž, doprava).  
+  - Při užívání (servis, náhradní díly).  
+- **Skladování hotových výrobků**: Optimalizace zásob, příprava pro expedici.  
+- **Expedice a fakturace**: Příprava zboží, vystavení faktur, sledování plateb.  
+- **Reklamace**: Řešení zjevných a skrytých vad, zajištění záručních služeb.  
+- **Evidence a hodnocení prodeje**: Analýza reklamací, vývoje objemu prodeje, nákladů spojených s prodejem.
+
+**Odbytové cesty, logistika, metody**  
+- **Přímé cesty**: Bez mezičlánků, využívá se u rychle kazícího zboží nebo zakázkové výroby.  
+- **Nepřímé cesty**: Prostřednictvím velkoobchodů, maloobchodů nebo importérů.  
+- **Logistické metody**:  
+  - Just in Time: Minimalizace zásob a rychlé dodávky.  
+  - Cross docking: Přímý přesun z dodavatele k odběrateli bez skladování.  
+  - Spojování zásilek: Efektivnější doprava většího množství zboží.  
+
+**Průběh obchodního případu v ČR**  
+1. Uzavření kupní smlouvy.  
+2. Příprava a realizace dodávky (expedice, doprava, přejímka).  
+3. Placení (hotovostní, bezhotovostní, zálohy).  
+4. Poprodejní služby a případné reklamace.
+
+**Reklamace, evidence a hodnocení prodeje**  
+- Reklamace: Řešení vad dle zákonných lhůt (zjevné, skryté).  
+- Evidence: Skladové karty, expediční příkazy, faktury.  
+- Hodnocení: Analýza kvality výrobků, rychlost obratu zásob, úhrada faktur.
+
+**Konkurence mezi prodejci**  
+- Nabídka komplexních služeb.  
+- Inovace a žhavé novinky.  
+- Velký sortiment a nízké ceny.  
+
+**Nadnárodní řetězce, franchiza**  
+- **Nadnárodní řetězce**: Lidl, Kaufland, Albert, Tesco – vysoká výkonnost, nízké ceny, ale likvidace menších obchodů.  
+- **Franchiza**:  
+  - Podnikání pod cizím jménem (McDonald, OBI).  
+  - Výhody: Rychlý vstup na trh, ověřené know-how.  
+  - Nevýhody: Nutnost dodržovat smlouvu, vysoké poplatky.  
+
+# Trh a tržní ekonomika
+
+**Rysy tržní ekonomiky**  
+- Volné působení nabídky a poptávky.  
+- Konkurence mezi subjekty trhu.  
+- Flexibilní tvorba cen.  
+- Minimální zásahy státu.  
+
+**Trh – prodávající, kupující a jejich cíle**  
+- **Prodávající**: Maximalizace zisku, prodej co největšího množství za co nejvyšší cenu.  
+- **Kupující**: Minimalizace nákladů, nákup co nejvyšší kvality za nejnižší cenu.  
+- **Cíl trhu**: Efektivní alokace zdrojů, kde se setkává nabídka s poptávkou.
+
+**Cena**  
+- Určuje hodnotu zboží/služby na trhu.  
+- Vzniká na základě rovnováhy mezi nabídkou a poptávkou.  
+- Slouží jako signál pro rozhodování účastníků trhu.
+
+**Konkurence**  
+- Posiluje kvalitu produktů a snižuje ceny.  
+- Otevřený trh umožňuje vstup nových firem a podporuje inovace.  
+- Monopol a zásahy státu mohou omezit efektivnost trhu.
+
+**Nabídka, poptávka – zákon, faktory ovlivňující N a P**  
+- **Zákon nabídky**: S rostoucí cenou roste nabídka.  
+- **Zákon poptávky**: S rostoucí cenou klesá poptávka.  
+- **Faktory ovlivňující poptávku**:  
+  - Cena zboží.  
+  - Důchody spotřebitelů.  
+  - Změna preferencí.  
+  - Cena substitutů (např. jablka místo hrušek).  
+  - Cena komplementů (např. auto a benzín).  
+- **Faktory ovlivňující nabídku**:  
+  - Náklady na výrobu.  
+  - Daňová politika.  
+  - Dostupnost zdrojů.  
+  - Technologický pokrok.
+
+**Vznik tržní rovnováhy, tržní mechanismus**  
+- **Tržní rovnováha**: Stav, kdy nabízené množství odpovídá poptávanému množství.  
+- **Mechanismus**: Trh se samoreguluje pomocí změn cen při nerovnováze (např. přebytek snižuje ceny, nedostatek je zvyšuje).
+
+**Druhy trhů**  
+- **Trh práce**: Nabídka a poptávka po pracovní síle.  
+- **Komoditní trh**: Obchod se zbožím (např. ropa, zlato).  
+- **Finanční trh**: Pohyb finančních zdrojů mezi subjekty (úvěry, investice).  
+
+**Externality**  
+- Vedlejší efekty činností, které ovlivňují jiné subjekty, aniž by to bylo zahrnuto v ceně.  
+- **Pozitivní externality**: Přínos pro okolí (např. výsadba stromů).  
+- **Negativní externality**: Škody na okolí (např. znečištění).  
+
+**Tržní selhání**  
+- Trhy mohou selhat v případech:  
+  - Externalit: Náklady nebo přínosy nejsou plně přenášeny na subjekty.  
+  - Veřejných statků: Poskytuje je vláda a platí se z daní (např. obrana, veřejné osvětlení).  
