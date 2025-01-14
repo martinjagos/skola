@@ -42,7 +42,7 @@
 - **Porady**: Strukturované, s jasnými cíli, zaměřené na výsledky.  
 - **Společenská odpovědnost firem (CSR)**: Zohlednění sociálních a environmentálních aspektů v podnikání.  
 
----
+
 
 # Ekonomická stránka činnosti podniku, grafická analýza, rating
 
@@ -83,7 +83,7 @@
   - Zisk zahrnuje náklady, které neovlivňují peněžní toky (např. odpisy).  
 - **Výpočet**: Čistý zisk + odpisy.  
 
----
+
 
 # Finanční hospodaření podniku
 
