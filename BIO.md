@@ -48,4 +48,7 @@ g) udržení homeostázy (stálost vnitřního prostředí)
       - vznikají v kostní dřeni 
       - životnost hodiny až 300 dnů
       - význam: obranné reakce organismu 
+      - typy:
+        a) lymfocyty T - buněčná imunita
+        b) lymfocyty B - tvorbu protilátek 
 
