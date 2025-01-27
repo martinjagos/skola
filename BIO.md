@@ -27,7 +27,7 @@ g) udržení homeostázy (stálost vnitřního prostředí)
    - složení:
      1. Voda 91%
      2. Organické látky 8%
-        a) bílkoviny (albuminy, 
+        a) bílkoviny
         b) glukóza 
         c) hormony, vitamíny a mastné kyseliny 
 
@@ -36,9 +36,16 @@ g) udržení homeostázy (stálost vnitřního prostředí)
       - červené krvinky (nemají jádro, malé, kulaté
       -5 mil./ml krve, jejich počet se zvyšuje v prostředí s vyšší nadmořskou výškou 
       - Vznik v kostní dřeni
+      - pro tvorbu krvinek je nutný vitamín B12
+      - životnost 120 dnů 
       - Funcke - přenost dýchacích plynů - zajišťuje hemoglobin:
          - nebílkovinná část hem (centrum tvoří železo)
          - bílkovinná část globin
-   b) 
-
+   b) leukocity
+      - bílé krvinky 
+      - mají jádro 
+      - 4 000 - 11 000 / ml krve
+      - vznikají v kostní dřeni 
+      - životnost hodiny až 300 dnů
+      - význam: obranné reakce organismu 
 
