@@ -51,4 +51,4 @@ g) udržení homeostázy (stálost vnitřního prostředí)
       - typy:
         a) lymfocyty T - buněčná imunita
         b) lymfocyty B - tvorbu protilátek 
-
+c) monfocity
