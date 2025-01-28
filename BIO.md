@@ -79,3 +79,4 @@
 - v populací je 80% +
 - význam: transfuze krve
 - člověk Rh - nesmí dostat krev od Rh +
+- v těhotenství vadí matka Rh + a dítě Rh -
