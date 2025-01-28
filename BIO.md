@@ -66,6 +66,10 @@
 - na povrchu eritrocitů jsou antigeny A, B, 0, v krevní plazmě jsou proti nim protilátky anti-A, anti-B
 - podle techto antinogenu a protilátek rozdělujeme 4 základní skupiny:
   1. A
+     - obsahuje antigeny A a protilátku B
   2. B
+     - obshajuje antigeny B a protilátky A
   3. AB
+     - má antigeny A i B, ale nemá protilátky 
   4. 0
+     - antigeny nemá protilátky A i B
