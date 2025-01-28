@@ -32,7 +32,7 @@ g) udržení homeostázy (stálost vnitřního prostředí)
         c) hormony, vitamíny a mastné kyseliny 
 
 2. krevní tělíska - pevná složka krve
-   a) erytrocyty
+   1. erytrocyty
       - červené krvinky (nemají jádro, malé, kulaté
       -5 mil./ml krve, jejich počet se zvyšuje v prostředí s vyšší nadmořskou výškou 
       - Vznik v kostní dřeni
@@ -41,7 +41,7 @@ g) udržení homeostázy (stálost vnitřního prostředí)
       - Funcke - přenost dýchacích plynů - zajišťuje hemoglobin:
          - nebílkovinná část hem (centrum tvoří železo)
          - bílkovinná část globin
-   b) leukocity
+   2. leukocity
       - bílé krvinky 
       - mají jádro 
       - 4 000 - 11 000 / ml krve
@@ -51,4 +51,11 @@ g) udržení homeostázy (stálost vnitřního prostředí)
       - typy:
         a) lymfocyty T - buněčná imunita
         b) lymfocyty B - tvorbu protilátek 
-c) monfocity
+        c) monocity - největší schopnost fagocytózy
+3. teombocity
+- krevní destičky 
+- nemají jádro, nepravidelný tvar
+- vznikají v kostní dřeni z obrovských buněk megakariocitů
+- 150 - 450 tis. / ml krve 
+- životnost: 2-10 dnů 
+- význam: srážení krve 
