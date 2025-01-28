@@ -52,15 +52,20 @@ g) udržení homeostázy (stálost vnitřního prostředí)
         1. lymfocyty T - buněčná imunita
         2. lymfocyty B - tvorbu protilátek 
         3. monocity - největší schopnost fagocytózy
-3. teombocity
-- krevní destičky 
-- nemají jádro, nepravidelný tvar
-- vznikají v kostní dřeni z obrovských buněk megakariocitů
-- 150 - 450 tis. / ml krve 
-- životnost: 2-10 dnů 
-- význam: srážení krve 
+   3. teombocity
+      - krevní destičky 
+      - nemají jádro, nepravidelný tvar
+      - vznikají v kostní dřeni z obrovských buněk megakariocitů
+      - 150 - 450 tis. / ml krve 
+      - životnost: 2-10 dnů 
+      - význam: srážení krve 
 
 
 ### Krevní skupina 
 - projevem vrozené imunity člověka 
-- na povrchu eritrocitů jsou antigeny A, B, 0, v krevní plazmě jsou proti nim protilátky anti-B
+- na povrchu eritrocitů jsou antigeny A, B, 0, v krevní plazmě jsou proti nim protilátky anti-A, anti-B
+- podle techto antinogenu a protilátek rozdělujeme 4 základní skupiny:
+  1. A
+  2. B
+  3. AB
+  4. 0
