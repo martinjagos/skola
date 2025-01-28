@@ -61,7 +61,7 @@
       - význam: srážení krve 
 
 
-### Krevní skupina 
+### Krevní skupiny
 - projevem vrozené imunity člověka 
 - na povrchu eritrocitů jsou antigeny A, B, 0, v krevní plazmě jsou proti nim protilátky anti-A, anti-B
 - podle techto antinogenu a protilátek rozdělujeme 4 základní skupiny:
