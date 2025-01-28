@@ -49,9 +49,9 @@ g) udržení homeostázy (stálost vnitřního prostředí)
       - životnost hodiny až 300 dnů
       - význam: obranné reakce organismu 
       - typy:
-        a) lymfocyty T - buněčná imunita
-        b) lymfocyty B - tvorbu protilátek 
-        c) monocity - největší schopnost fagocytózy
+        1. lymfocyty T - buněčná imunita
+        2. lymfocyty B - tvorbu protilátek 
+        3. monocity - největší schopnost fagocytózy
 3. teombocity
 - krevní destičky 
 - nemají jádro, nepravidelný tvar
@@ -59,3 +59,8 @@ g) udržení homeostázy (stálost vnitřního prostředí)
 - 150 - 450 tis. / ml krve 
 - životnost: 2-10 dnů 
 - význam: srážení krve 
+
+
+### Krevní skupina 
+- projevem vrozené imunity člověka 
+- na povrchu eritrocitů jsou antigeny A, B, 0, v krevní plazmě jsou proti nim protilátky anti-B
