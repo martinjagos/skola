@@ -73,3 +73,9 @@
      - má antigeny A i B, ale nemá protilátky 
   4. 0
      - antigeny nemá protilátky A i B
+#### RH faktor
+- další antigen na povrchu eritrocitů 
+- přítomnost značíme Rh +, nepřítomnost Rh -
+- v populací je 80% +
+- význam: transfuze krve
+- člověk Rh - nesmí dostat krev od Rh +
