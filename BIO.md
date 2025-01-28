@@ -7,13 +7,13 @@
 - cca 5 litrů v těle 
 
 ### Funkce krve:
-a) rozvod dýchacích plynů (kyslík, oxid uhličitý)
-b) odvod splidin z metabolismu
-c) rozvod živin 
-d) rozvod hormonů a vitamínů 
-e) obranné reakce (bílé krvinky)
-f) termoregulace 
-g) udržení homeostázy (stálost vnitřního prostředí)
+1. rozvod dýchacích plynů (kyslík, oxid uhličitý)
+2. odvod splidin z metabolismu
+3. rozvod živin 
+4. rozvod hormonů a vitamínů 
+5. obranné reakce (bílé krvinky)
+6. termoregulace 
+7. udržení homeostázy (stálost vnitřního prostředí)
 
 ### Vznik a zánik krve:
 - vznik v kostní dřeni
