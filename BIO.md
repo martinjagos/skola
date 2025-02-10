@@ -80,3 +80,9 @@
 - význam: transfuze krve
 - člověk Rh - nesmí dostat krev od Rh +
 - v těhotenství vadí matka Rh + a dítě Rh -
+
+### Onemocnění krve
+- leukémie
+- anémie 
+- embolie - ucpání cév
+- hemofilie - chorobná krvácivost 
