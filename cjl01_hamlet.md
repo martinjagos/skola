@@ -1,29 +1,29 @@
-# William Shakespeare: Hamlet
+## William Shakespeare: Hamlet
 
-## Období
+### Období
 - **Renesance**, kolem roku 1600, v době anglické renesance, konkrétně v období alžbětinské literatury.
 
-## Literární směr
+### Literární směr
 - **Renesance a humanismus**  
   Dílo je typickým představitelem renesančního dramatu, které se zaměřuje na:
   - lidskou individualitu,
   - osud,
   - morální otázky.
 
-## Současníci
+### Současníci
 - Christopher Marlowe
 - Ben Jonson
 - John Donne
 
-## Autor
+### Autor
 - **William Shakespeare**  
   Jeden z nejvýznamnějších anglických dramatiků a básníků všech dob.
 
-## Zařazení autora
+### Zařazení autora
 - Představitel anglické renesance a vrcholného dramatu.
 - Zásadně ovlivnil vývoj evropské literatury a dramatu.
 
-## Další díla
+### Další díla
 - Romeo a Julie
 - Othello
 - Macbeth
@@ -31,7 +31,7 @@
 - Sen noci svatojánské
 - Bouře
 
-## Zasazení do kontextu autorovy tvorby
+### Zasazení do kontextu autorovy tvorby
 - **Rok vzniku:** 1601
 - **Význam díla:**
   - Vrcholné dílo světového dramatu.
@@ -44,10 +44,10 @@
   - Dělěno do 5 dějství.
   - Obsahuje dlouhé filozofické monology, kde Hamlet zkoumá smysl lidské existence.
 
-## Téma
+### Téma
 - **Zrada a pomsta**
 
-## Motivy
+### Motivy
 - Pomsta
 - Smrt
 - Šílenství
@@ -58,18 +58,18 @@
 - Láska
 - Existenciální úzkost
 
-## Časoprostor
+### Časoprostor
 - **Místo děje:** Hrad, Elsinor v Dánsku
 - **Historické období:** Středověk
 
-## Dějová linie
+### Dějová linie
 - **Stručný přehled:**
   - **Princ Hamlet** se vrací z Wittenberské univerzity domů, kde zjistí, že jeho otec, král Dánska, byl zavražděn.
   - Duch jeho otce mu odhalí, že vrahem je **Hamletův strýc Claudius**, který si vzal Hamletovu matku Gertrudu a usedl na trůn.
   - Hamlet přemýšlí o pomstě, zatímco bojuje s vlastními pochybnostmi a šílenstvím.
   - Děj vrcholí tragédií, kdy většina hlavních postav, včetně Hamleta, zahyne.
 
-## Kompoziční výstavba
+### Kompoziční výstavba
 - **Chronologická kompozice, 5 dějství (jednání):**
   - **Expozice (úvod)**
     - Seznámení s postavami a prostředím.
@@ -90,20 +90,20 @@
     - Hamletova matka se otráví vínem.
     - Hamlet z posledních sil zabije Claudia.
 
-## Literární druh
+### Literární druh
 - **Drama**
 
-## Žánr
+### Žánr
 - **Tragédie**
 
-## Forma
+### Forma
 - Kombinace prózy a poezie.
 
-## Vypravěč / lyrický subjekt
+### Vypravěč / lyrický subjekt
 - Vypravěč není součástí děje.
 - Psáno v ich-formě.
 
-## Postavy
+### Postavy
 - **Hamlet**  
   Dánský princ, syn zavražděného krále a synovec Claudia. Spravedlivý a hrdý; přemýšlí o pomstě a předstírá bláznovství. Miluje Ofelii, přičemž zabil Polonia, otce Ofelie.
 - **Gertruda**  
@@ -121,9 +121,9 @@
 - **Rosencrantz a Guildenstern**  
   Bývalí spolužáci Hamleta.
 
-## Vyprávěcí způsoby
+### Vyprávěcí způsoby
 - **Monology:** Často zdůrazňují nálady postav.
 - **Dialogy:** Promluvy mezi dvěma a více postavami.
 
-## Typy promluv / veršovaná výstavba
+### Typy promluv / veršovaná výstavba
 - **Přímá řeč**
