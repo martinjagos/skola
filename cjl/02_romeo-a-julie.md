@@ -1,4 +1,4 @@
-## 2. William Shakespeare: Romeo a Julie
+## 2. Romeo a Julie (William Shakespeare)
 
 #### Období
 - Renesance, 1. období Shakespearovy tvorby
