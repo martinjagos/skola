@@ -1,4 +1,4 @@
-## 4. Karel Havlíček Borovský: Král Lávra
+## 4.Král Lávra (Karel Havlíček Borovský)
 
 ### Období
 - Česká literatura 1. poloviny 19. století (4. fáze národního obrození, počátky realismu v české kultuře)
