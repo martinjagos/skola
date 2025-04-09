@@ -1,4 +1,4 @@
-## William Shakespeare: Hamlet
+## 1. William Shakespeare: Hamlet
 
 #### Období
 - **Renesance**, kolem roku 1600, v době anglické renesance, konkrétně v období alžbětinské literatury.
