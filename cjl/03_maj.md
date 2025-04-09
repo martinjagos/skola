@@ -1,4 +1,4 @@
-## 3. Karel Hynek Mácha: Máj
+## 3. Máj (Karel Hynek Mácha)
 
 ### Období
 - Národní obrození, první polovina 19. století
